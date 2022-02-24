@@ -1,8 +1,8 @@
-# about Contentful
+# About Contentful
 
 [Contentful](https://www.contentful.com/) provides a content platform that enables teams to power content in any digital product.
 
-# about contentful-userland
+# About `contentful-userland`
 
 This is an organization for projects in the [Contentful](https://www.contentful.com/) ecosystem that meet the following criteria:
 
