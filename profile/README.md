@@ -8,7 +8,7 @@
 
 This is an organization for projects in the [Contentful](https://www.contentful.com/) ecosystem that meet the following criteria:
 
-- Want to use http://openopensource.org/ governance
+- Want to use [OPEN Open Source](https://openopensource.github.io/) governance
 - Would benefit from having neutral ownership (e.g. anyone can become a maintainer)
 - Provide a generally useful function to the Contentful community
 - Were considered to be useful in the [project request discussion repo](https://github.com/contentful-userland/module-requests)
